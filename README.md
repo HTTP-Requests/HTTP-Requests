@@ -21,6 +21,6 @@
 [![Fedora](https://img.shields.io/badge/-Fedora-141414?style=flat&logo=fedora)](https://getfedora.org/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 
-### What im doing:
+### Me:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/923746520392663089)](https://discord.com/users/923746520392663089)
