@@ -23,4 +23,4 @@
 
 ### Me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/923746520392663089)](https://discord.com/users/923746520392663089)
+[![Discord Presence](https://lanyard.cnrad.dev/api/919345901498138664)](https://discord.com/users/919345901498138664)
