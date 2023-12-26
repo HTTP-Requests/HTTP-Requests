@@ -8,11 +8,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
+[![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
 ![PHP](https://img.shields.io/badge/php-141414?style=flat&logo=postgresql)
 
 ### Languages i will learn soon:
-
-[![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
 ### Linux Distros that I know and use
